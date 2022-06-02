@@ -9,4 +9,5 @@ export default defineConfig({
         },
     },
     publicDir: path.resolve("static"),
+    base: "./",
 });
