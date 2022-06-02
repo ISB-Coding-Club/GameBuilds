@@ -1,0 +1,22 @@
+[
+    {
+        "name": "v0.1.0 (Alpha) build.1",
+        "id": "0.1.0-alpha1",
+        "broken": true
+    },
+    {
+        "name": "v0.1.0 (Alpha) build.2",
+        "id": "0.1.0-alpha2",
+        "broken": true
+    },
+    {
+        "name": "v0.1.0 (Alpha) build.3",
+        "id": "0.1.0-alpha3",
+        "broken": true
+    },
+    {
+        "name": "v0.1.0 (Alpha) build.4",
+        "id": "0.1.0-alpha4",
+        "broken": false
+    }
+]
